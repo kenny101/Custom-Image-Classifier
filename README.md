@@ -5,10 +5,13 @@ Train and test a deep learning image classifier in minutes! [![Open In Colab](ht
 ## How it works
 
 1. Specify how many classes you would like to classify and what images to download. Images are downloaded using https://github.com/Joeclinton1/google-images-download.
-   ![user input]("https://raw.githubusercontent.com/kenny101/Custom-Image-Classifier/main/screenshots/user-input.jpg")
+
+![user input]("https://raw.githubusercontent.com/kenny101/Custom-Image-Classifier/main/screenshots/user-input.jpg")
 
 2. Using FastAI's library we can train and clean the downloaded data for better results
-   ![cleaning data]("https://raw.githubusercontent.com/kenny101/Custom-Image-Classifier/main/screenshots/cleaning.jpg")
+
+![cleaning data]("https://raw.githubusercontent.com/kenny101/Custom-Image-Classifier/main/screenshots/cleaning.jpg")
 
 3. Input image urls and receive predictions
-   ![predictions]("./screenshots/predictions.jpg")
+
+![predictions]("./screenshots/predictions.jpg")
