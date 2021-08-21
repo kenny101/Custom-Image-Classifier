@@ -14,4 +14,4 @@ Train and test a deep learning image classifier in minutes! [![Open In Colab](ht
 
 3. Input image urls and receive predictions
 
-![predictions](./screenshots/predictions.jpg?raw=true)
+![predictions](./screenshots/prediction.jpg?raw=true)
