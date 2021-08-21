@@ -10,8 +10,8 @@ Train and test a deep learning image classifier in minutes! [![Open In Colab](ht
 
 2. Using FastAI's library we can train and clean the downloaded data for better results
 
-![cleaning data]("https://raw.githubusercontent.com/kenny101/Custom-Image-Classifier/main/screenshots/cleaning.jpg")
+![cleaning data](./screenshots/cleaning.jpg?raw=true)
 
 3. Input image urls and receive predictions
 
-![predictions]("./screenshots/predictions.jpg")
+![predictions](./screenshots/predictions.jpg?raw=true)
